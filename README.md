@@ -9,7 +9,7 @@
 
 <h3>Introduction - the project's aim</h3>
 <p>
-    This page is used to imitate the post page of Facebook, the header and the post operation, users could choose file and upload the images and post it on the timeline.
+    This page is used to imitate the post page of Facebook, the header and the post operation, users could choose file and upload the images and post it on the timeline. Clicking the avatar on the top right, you will get the basic information of this user, including user's ID, name, username and email, click for the second time, the information will disappear.
 </p>
 
 
